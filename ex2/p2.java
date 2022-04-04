@@ -82,4 +82,4 @@ Enter Elements of Matrix :
 OUTPUT
 ______ 
 You Entered NOT a Symmetric Matrix
-
+//Verified
