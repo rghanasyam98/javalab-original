@@ -61,7 +61,7 @@ RAM SIZE: 4 GB
 RAM MANUFACTERER: DELL
 */
 
-
+//Verified
 
 
 
