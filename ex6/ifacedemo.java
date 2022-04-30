@@ -21,11 +21,11 @@ class rectangle implements shape{//implementing
    }
 
   public  void area(){
-     System.out.println("AREA OF SQUARE :"+(len*br));
+     System.out.println("AREA OF RECTANGLE :"+(len*br));
     }
 
   public void perimeter(){
-     System.out.println("PERIMETER OF SQUARE :"+(len+br)*2);
+     System.out.println("PERIMETER OF RECTANGLE :"+(len+br)*2);
    }
 
 }
