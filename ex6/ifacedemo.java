@@ -87,8 +87,8 @@ Enter choice:
 1
 Enter length and breadth of rectangle:
 2 3
-AREA OF SQUARE :6
-PERIMETER OF SQUARE :10
+AREA OF RECTANGLE :6
+PERIMETER OF RECTANGLE :10
 
 1.RECTANGLE
 2.CIRCLE
