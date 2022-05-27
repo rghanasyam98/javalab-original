@@ -53,3 +53,59 @@ class e9p2{
 
  }
 
+/*
+___HashMap to TreeMap___
+
+1.ADD
+2.DISPLAY HashMap
+3.Covert To TreeMap
+4.Display TreeMAp
+5.EXIT
+
+Enter your Option
+1
+Enter key:
+tom
+Enter value:
+10
+Enter your Option
+1
+Enter key:
+abi
+Enter value:
+12
+Enter your Option
+1
+Enter key:
+ghanasyam
+Enter value:
+11
+Enter your Option
+1
+Enter key:
+midun
+Enter value:
+19
+Enter your Option
+2
+midun : 19
+tom : 10
+ghanasyam : 11
+abi : 12
+Enter your Option
+3
+Successfully converted..
+
+Enter your Option
+4
+abi : 12
+ghanasyam : 11
+midun : 19
+tom : 10
+Enter your Option
+5
+Exiting...
+
+
+
+*/
